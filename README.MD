@@ -1,6 +1,6 @@
-***********************************
-* Python for E-Commerce Tutorials *
-***********************************
+**********************************
+ Python for E-Commerce Tutorials
+**********************************
 
 Copyright 2018 Colin Conrad
 
